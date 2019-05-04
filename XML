@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<events>
+    <event>
+        <location>Ha Noi</location>
+        <date>9 thang 8</date>
+        <map>img/1.jpg</map>
+    </event>
+
+    <event>
+        <location>Sai Gon</location>
+        <date>30 thang 4</date>
+        <map>img/2.jpg</map>
+    </event>
+</events>
